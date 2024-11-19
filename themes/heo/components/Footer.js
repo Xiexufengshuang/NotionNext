@@ -31,7 +31,7 @@ const Footer = () => {
           <PoweredBy />
           <CopyRightDate />
         </div>
-
+         本站所有资源收集整理于网络,本站不参与制作,用于互联网爱好者学习、研究和交流,若使用商业用途，请购买正版授权，否则产生的一切后果将由下载用户自行承担，如不慎侵犯了您的权利,请及时联系站长处理删除。敬请谅解！ 
         <div id='footer-bottom-right'>
           {siteConfig('BEI_AN') && (
             <>
